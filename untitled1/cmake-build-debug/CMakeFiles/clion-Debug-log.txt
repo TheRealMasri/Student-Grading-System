@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\Lenovo\CLionProjects\untitled1 Select CMakeLists.txt
